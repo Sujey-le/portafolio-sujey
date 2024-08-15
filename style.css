@@ -1,0 +1,31 @@
+
+*{
+    font-family: "Outfit", sans-serif;;
+}
+
+
+
+.iconos-h{
+    color: #304d6d
+}
+
+.img-proyecto1{
+    background-image: url(assets/clonpinterest.PNG);
+    opacity: 0.6;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+.btn-custom { 
+    background-color: #82a0bc;
+    color:#000000; /* Color del texto */
+    border-color: #304d6d; 
+}
+
+.btn-custom:hover {
+    background-color: #304d6d; /* Color de fondo al pasar el ratón */
+    color: #eef0f2; /* Color del texto al pasar el ratón */
+    border-color: #183446; /* Color del borde al pasar el ratón */
+}
+
